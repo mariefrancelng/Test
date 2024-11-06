@@ -19,6 +19,7 @@ header {
 }
 
 nav {
+    background: red;
     top: 20px;
     right: 20px;
     position: relative;
